@@ -1,0 +1,5 @@
+service:
+  name: testGit
+  identifier: testGit
+  orgIdentifier: default
+  projectIdentifier: devportal
